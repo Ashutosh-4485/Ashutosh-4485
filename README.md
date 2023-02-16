@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm Ayush Giri</h1>
-<h3 align="center">A passionate Software Developer from Nepal</h3>
+<h1 align="center">Hi 👋, I'm Ashutosh</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-<p align="left"> <a href="https://twitter.com/ayushgiri12" target="blank"><img src="https://img.shields.io/twitter/follow/ayushgiri12?logo=twitter&style=for-the-badge" alt="ayushgiri12" /></a> </p>
 
 - 🌱 I’m currently learning *Java*
 
-- 💬 Ask me about *Python, Data Analysis, Sql, Django*
+- 💬 Ask me about *Python, Machine/Deep Learning, Computer Vision, NLP, Data Analysis, Sql, C++*
 
-- 📫 How to reach me *ayushgiri56@gmail.com*
+- 📫 How to reach me *ashutosh4485kumar@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ayushgiri12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushgiri12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayush-giri-24b9451b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-giri-24b9451b9" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15023629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15023629" height="30" width="40" /></a>
-<a href="https://instagram.com/giri-ayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giri-ayush" height="30" width="40" /></a>
-<a href="https://medium.com/@giriayush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@giriayush" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/ashutosh-kun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-giri-24b9451b9" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13116857/ashutosh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15023629" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ashutosh_kun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giri-ayush" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
