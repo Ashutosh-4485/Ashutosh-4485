@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *Java*
 
-- 💬 Ask me about *Python, Machine/Deep Learning, Computer Vision, NLP, Data Analysis, Sql, C++*
+- 💬 Ask me about *Python, Machine/Deep Learning, Computer Vision, NLP, Data Analysis, Sql, C++, Data Structures and Algorithms*
 
 - 📫 How to reach me *ashutosh4485kumar@gmail.com*
 
