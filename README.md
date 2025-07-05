@@ -1,7 +1,5 @@
 <h3 align="center">👋 Hi there! I'm Ashutosh — a Machine Learning Engineer from India 🇮🇳</h3>
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="developer gif" />
-
 I'm passionate about building end-to-end ML systems — from data pipelines to deploying and scaling models. I specialize in:
 - 🤖 Deep Learning & Computer Vision
 - 🧠 NLP and Foundation Model Fine-Tuning (BERT, TrOCR, YOLO)
@@ -43,15 +41,6 @@ Always open to collaborating on impactful open-source projects or research probl
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://roboflow.com/" target="_blank" rel="noreferrer">
-    <img src="https://user-images.githubusercontent.com/100123884/209982166-e2e7ea39-ea9f-4d65-981b-5dffb0e7a9c2.png" alt="roboflow" width="40" height="40"/>
-  </a>
-  <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" alt="mlflow" width="60" height="30"/>
-  </a>
-  <a href="https://dvc.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/iterative/dvc.org/main/static/img/logo.svg" alt="dvc" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
