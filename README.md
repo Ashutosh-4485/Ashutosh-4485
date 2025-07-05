@@ -2,7 +2,7 @@
 
 I'm passionate about building end-to-end ML systems — from data pipelines to deploying and scaling models. I specialize in:
 - 🤖 Deep Learning & Computer Vision
-- 🧠 NLP and Foundation Model Fine-Tuning (BERT, TrOCR, YOLO)
+- 🧠 NLP , LLM
 - 🔁 MLOps & Experiment Tracking (MLflow, DVC)
 - ☁️ Cloud & Scalable Deployment (AWS, Docker, Kubernetes)
 
@@ -47,8 +47,5 @@ Always open to collaborating on impactful open-source projects or research probl
   </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
   </a>
 </p>
