@@ -1,15 +1,33 @@
-<h3 align="center">👋 Hi there! I'm Ashutosh — a Machine Learning Engineer from India 🇮🇳</h3>
 
-I'm passionate about building end-to-end ML systems — from data pipelines to deploying and scaling models. I specialize in:
+---
+
+<h3 align="center">👋 Hi there, I'm Ashutosh — a Machine Learning Engineer passionate about building intelligent systems and scalable ML pipelines!</h3>
+
+---
+
+🚀 I specialize in:
+
+* 🔍 End-to-End **Machine Learning Pipelines**: Data ingestion, validation, feature engineering, model training, evaluation, and deployment.
+* ⚙️ **MLOps Tools & Practices**: MLflow, DVC, GitHub Actions (CI/CD), Docker, Kubernetes, AWS (EC2, S3), and more.
+* 🧠 **GenAI & NLP**: Fine-tuned models like BERT, TrOCR, and built apps for question generation, document understanding, and mock interviews.
+* 🌐 **Web + ML Integration**: Developed real-time Flask and React-based apps powered by ML models.
+* 🎓 **Community & Mentorship**: Led ML bootcamps for 500+ students across engineering colleges.
+
+---
+
+📌 Always learning. Always building.
+Let’s connect and collaborate on meaningful AI projects!
+🌐 [LinkedIn](https://www.linkedin.com/in/ashutosh4485/) 
+- 📫 Reach me at: **ashutosh4485kumar@gmail.com**
+
+---
+
+Let me know if you'd like to add badges, a GitHub stats card, or featured pinned projects.
+
 - 🤖 Deep Learning & Computer Vision
-- 🧠 NLP , LLM
+- 🧠 NLP , Gen AI
 - 🔁 MLOps & Experiment Tracking (MLflow, DVC)
 - ☁️ Cloud & Scalable Deployment (AWS, Docker, Kubernetes)
-
-Always open to collaborating on impactful open-source projects or research problems!
-
-- 💬 Ask me about **Python, ML/DL, NLP, Data Analysis, MLOps**
-- 📫 Reach me at: **ashutosh4485kumar@gmail.com**
 
 ---
 
