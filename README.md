@@ -10,7 +10,7 @@
 * 🔍 End-to-End **Machine Learning Pipelines**: Data ingestion, validation, feature engineering, model training, evaluation, and deployment.
 * ⚙️ **MLOps Tools & Practices**: MLflow, DVC, GitHub Actions (CI/CD), Docker, Kubernetes, AWS (EC2, S3), and more.
 * 🧠 **GenAI & NLP**: Fine-tuned models like BERT, TrOCR, and built apps for question generation, document understanding, and mock interviews.
-* 🌐 **Web + ML Integration**: Developed real-time Flask and React-based apps powered by ML models.
+* 🌐 **Model Serving**: Model Serving via Flask API.
 * 🎓 **Community & Mentorship**: Led ML bootcamps for 500+ students across engineering colleges.
 
 ---
